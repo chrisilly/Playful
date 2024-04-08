@@ -1,0 +1,43 @@
+{
+    "name": "Exotic Plants",
+    "icon": "farmersrespite:green_tea_leaves",
+    "category": "patchouli:cooking",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type":"patchouli:spotlight",
+            "title": "Teas",
+            "item": "farmersrespite:green_tea_leaves,farmersrespite:yellow_tea_leaves,farmersrespite:black_tea_leaves",
+            "text": "Throughout all my struggles, nothing has made me feel more at ease. I found my tea bush in a swamp, but it seems like they can grow even if you relocate them. I sometimes like to let it grow past its green stage, shearing it only after it yellows or blackens. The color of the leaves really change the taste and feel of $(l:cooking/kettle)the brews I make$(/l) with them."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Coffee",
+            "item": "farmersrespite:coffee_berries",
+            "text": "In burning hellscapes—planted on basalt—coffee bushes seem to do fine on their own with a bit of time. In the grasses of my yard, it finally grew when I planted it in the center of a 5x5 field of other crops, but only because it paracitically leeched off of them, withering them to dust. Luckily the $(l:cooking/kettle)caffeine these berries give me$(/l) is well worth the trouble."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Pollinating Fruits",
+            "item": "collectorsreap:pomegranate,collectorsreap:lime",
+            "text": "I've realised that simply planting some fruits is not enough. Without bee pollination, they produce nothing at all. This has been the case for limes which I found in the flower forest, and pomegranates which my friend gathered from warped forests."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Bananas",
+            "item": "neapolitan:banana_bunch",
+            "text": "For the longest time, I didn't understand why my banana stalks weren't growing. I stacked my banana fronds on a block of gravel like I was supposed to! Turns out that rain is vital for this growth process. I should see if I can't make a sprinkler..."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "White Strawberries",
+            "item": "neapolitan:white_strawberries",
+            "text": "I love strawberries, but I was really shocked to find white ones! I was climbing a mountain when I came upon them. I think they only grow above the clouds where the air is less dense."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Allergic Reaction?",
+            "text": "Something I've been growing has really thrown me off, but I'm not sure what. I'm coughing all the time and I can't sleep. My friends are inching farther away each night. I think they're scared of catching whatever I've got."
+        }
+    ]
+}

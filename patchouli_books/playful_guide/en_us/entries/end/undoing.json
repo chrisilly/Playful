@@ -1,0 +1,16 @@
+{
+    "name": "For Nothing",
+    "icon": "minecraft:bedrock",
+    "category": "patchouli:end",
+    "advancement": "minecraft:end/find_end_city",
+    "pages": [
+        {
+            "type": "patchouli:text",
+			"text": "I have built endless spires to try to get a vantage point. This place is completely desolate.$(br2)I need to get out of here. There's nothing for me. I don't care.$(br2)I'm using whatever experience I have."
+        },
+		{
+			"type": "patchouli:empty",
+			"draw_filler": false
+		}
+    ]
+}

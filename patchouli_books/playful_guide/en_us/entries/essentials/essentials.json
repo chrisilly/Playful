@@ -1,0 +1,58 @@
+{
+    "name": "Essentials",
+    "icon": "backpacked:backpack",
+    "category": "patchouli:essentials",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I can't imagine myself going without a backpack, honestly. I don't even have a home, and I'm still hoarding too much stuff.$(br2)The bundles I've been making have been perfect for the bits and bobs; the loose few items hiding in the bottom in your pockets, taking up unecessary space. I'm such a hoarder I've had to dye them different colours just to keep track."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "backpacked:backpack",
+            "recipe2": "craftable_bundles_rabbit_hide:bundle_rabbit_hide"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Snoozing and Cruising",
+            "text": "No more sleepless nights on the cold hard ground! They say home is where the bed is, but this bedroll ain't exactly that. It works perfectly for sleeping when out exploring. To stay safe, I dyed it green to better blend in with the grass.$(br2)During daytime, which I've found is actually a bit longer than night time, the spyglass has easily helped me find my way. I even made a $(l)special slot$() for it that allows me to easily whip it out on a whim $(l)('Z')$()."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe": "upgrade_aquatic:bedroll",
+            "recipe2": "minecraft:spyglass"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Chalk",
+            "text": "I am definitely $(o)less$() lost with chalk. And over time I find myself getting good at making a few different doodles! I can't keep organised with just one color, so the chalk box is a necessity..."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chalk:chalk_from_white_dye",
+            "text": "I am definitely $(o)less$() lost with this. And they come in different colors!",
+            "recipe2": "chalk:chalk_box"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Portable Storage",
+            "text": "The toolbox has been an excellent lightweight solution for carrying my space-taking tools around with me. It only carries nine tools, and nothing else can really fit in there, but the portability is a godsend.$(br2)The sacks have a bit more room for anything, really, but carrying too much or too many filled sacks really kills my back."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "caverns_and_chasms:toolbox",
+            "recipe2": "supplementaries:sack"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Baskets",
+            "text": "Being able to just toss something into these uncovered beauties is incredible. I even made an impromtu basket when caving. It's a little sticky, though, and I had to later extract its contents with a hopper, haha. Makes for a good no-refunds donation box!"
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe": "farmersdelight:basket",
+            "recipe2": "miners_delight:sticky_basket"
+        }
+    ]
+}

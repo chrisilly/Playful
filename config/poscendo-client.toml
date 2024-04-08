@@ -1,0 +1,10 @@
+
+#Potions
+[potions]
+	#If the enchantment glint should be removed from potions. (Default = true)
+	"Remove Potion Glint" = true
+	#If potions refined using redstone or glowstone should be prefixed with either Lengthy or Potent respectively. (Default = true)
+	"Refined Potion Names" = true
+	#If potions refined using redstone or glowstone should have unique bottle textures to set them apart. (Default = true)
+	"Refined Potion Bottles" = true
+

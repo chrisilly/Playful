@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "minicoal:mini_charcoal",
+	  "count": 8
+    },
+    {
+      "chance": 0.10,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

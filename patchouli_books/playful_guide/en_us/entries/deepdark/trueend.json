@@ -1,0 +1,26 @@
+{
+    "name": "The End.",
+    "icon": "deeperdarker:heart_of_the_deep",
+    "category": "patchouli:deepdark",
+    "advancement": "minecraft:end/kill_dragon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Everything $(k)went with it$(). $(k)Everything$() is blackening. $(k)It's all$() sinking through the earth. The limbs $(k)of the$() animals $(k)who survived are$() turning long and weird.$(br2)$(br2)I need to find my friends. $(k)I need to find the$() underground city."
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "deeperdarker:main/root",
+            "text": "$(k)I'm$() leaking everywhere. $(k)The$() deepslate absorbs $(k)all of the$() blackness $(k)a lot easier$(). My experience $(k)is completely corrupted$()... $(k)But I think I'm$() close to $(k)finding my$() friends!"
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "deeperdarker:main/find_ancient_city",
+            "text": "I $(k)don't know how to$() stop it, $(k)and everything is$() ruined. $(k)To whomever is reading this, you need to$() kill $(k)me and destroy$() $(br)and $(k)forget the$() portal.$(br2)$(br2)$(br2)$(br)$(4)Please."
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+    ]
+}

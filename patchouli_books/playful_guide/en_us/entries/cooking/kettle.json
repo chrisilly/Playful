@@ -1,0 +1,29 @@
+{
+    "name": "Kettle",
+    "icon": "farmersrespite:kettle",
+    "category": "patchouli:cooking",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This kettle has been a life-saver. Among my favourite brews are $(l:cooking/exotic_fruits)green teas$(/l), which have really helped ease my withering and I recover health far quicker. It brings me $(l)vitality$().$(br2)$(l:cooking/exotic_fruits)Yellow teas$(/l) fortify me with $(l)tenacity$(), making me sturdier and more resilient."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Effects",
+            "item": "farmersrespite:green_tea_leaves,farmersrespite:yellow_tea_leaves,farmersrespite:black_tea_leaves,farmersrespite:coffee_berries",
+            "text": "$(l:cooking/exotic_fruits)Black tea$(/l) brings me a greater sense of $(l)maturity$(), I won't lie. It pairs well with foods, and—honestly—not even foul foods bother me when I've got a cup.$(br2)By far my favourite has to be $(l:cooking/exotic_fruits)coffee$(/l). The $(l)caffeinated$() state makes me more responsive, and I can stay up forever without going insane! I've never encountered any of those nightmarish phantoms with a cup of coffee in me."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Experimentation",
+            "item": "neapolitan:mint_leaves,neapolitan:roasted_adzuki_beans,neapolitan:dried_vanilla_pods,neapolitan:chocolate_bar,minecraft:dandelion,farmersrespite:rose_hips,minecraft:glow_berries,minecraft:nether_wart,minecraft:fermented_spider_eye",
+            "text": "Even better is when I combine tea leaves and coffee beans with mint, adzuki beans, vanilla, and chocolate. It adds even more to the effects.$(br2)Hell, even dandelions and rose hips make for good teas. They ease my pains. I've even gambled with raw coffee berries and glow berries to mixed success."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersrespite:kettle",
+            "text": "It's important you fill it up with a few water bottle before the brew, unless you like the taste of charred, dry leaves."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+# Update 1.4.0-beta.2.1 Changelog
+```
+GAMEPLAY CHANGES
+  You can now dye bundles!
+  Adds more music discs
+  Added Mediaworks mod; an addon for Hexcasting
+  Talking in voice chat now activates sculk sensors
+  Caffeinating yourself now prevents phantoms from spawning
+  Sleeping now speeds up time at a speed proportional to the percentage of players sleeping instead of skipping the night
+  You can no longer sleep to skip weather
+  Daytime is now roughly five minutes longer
+  Clocks now display time in 24-hour format
+  Map recipes now require 9 paper instead of 8 paper and a compass
+  You can now wear cosmetic armour over your regular armour or even hide your armour
+  The photographer's name will now display in their photographs' tooltips
+  Goblin traders are now rarer
+  Adds a togglable HUD over your hotbar that displays coordinates, cardinal direction, and time. Togglable by typing the command "/trigger ch_toggle"
+  The Playful Guide book is now given to players on their first login
+  Added crafting recipes for the Playful Guide book
+  Toggled on HRTF directional audio by default
+  You can no longer pick up and store create minecart contraptions in your inventory
+  The Alter Scale spell has been removed
+  You can now jump very slightly higher in a boat from water
+  Trees are now chopped and felled the same way regardless of tool used
+  Getting soaked with water now makes you (dripping) wet
+  Sheep with a full coat of wool are now slightly resistant to certain damage types
+  Ender dragon now always spawns a dragon egg
+  You can now pick up skeletons' arrows
+  You can now use the Elytra in your back curios slot (the slot where your backpack goes)
+
+FIXES AND TWEAKS
+  Alternative minimap mods no longer work. (Use the Atlas mod.)
+  Fixed an issue where clicking on recipes in the recipe book or stonecutter instantly crafted the selected item
+  Fixed an issue where two map previews would show on hovering over a map
+  Now hides map IDs from the map sprite
+  Fixed the issue where cacti break if there's a block next to them
+  You should now be able to hear other players better around corners
+  Fixed the issue where boats go insanely fast on ice
+  The minimap is now equally offset from the top and side.
+  FPS counter is now toggled off by default
+  Added keybinds for increasing and decreasing selected map slices within your Atlas (NUMPAD2, NUMPAD8)
+  Discord will now more accurately detect your game and display more information on your session
+  Removed the VanillaTweaks advancement tab
+  The HUD armor/tool icons now show how much durability is left as opposed to how much durability has been used
+  Rearranged the HUD to reduce clutter and avoid overlaps when holding items in off-hand
+  Made saw GUI bigger
+  Fixed toolboxes contents disappearing on state change
+  Fixed issues causing experience gain exploits from crops, beds, and more
+  Fixed an issue where JEI would slightly overlap with the postbox send button
+  Fixed an issue where caves and darkness was way too bright with shaders on
+  Fixed crafting recipes for mailboxes and postboxes; they now use their respective chest variants
+  Removes cultural delights squids in favour of Miner's Delight squids
+  Adds missing kiln recipes (From Windswept, Deeper Darker, and Create)
+  Shulker bullets now despawn when the shulker who shot them die
+  Fixed an issue where you'd take fall damage if you fell on the edge of an elevated slime or net block
+  Removed No Night Vision Flashing in favour of Forgery
+  Removed Cake Chomps in favour of Forgery
+  Removed Straw Golem due to repeated unpredictable crashes
+  Removed Better Water Splash in favour of Forgery's wetness
+
+UPDATED MODS
+  3dskinlayers
+  Abnormals Delight
+  Canary
+  Caverns & Chasms
+  Chalk
+  Chimes
+  Collector's Reap
+  Default Options
+  Embeddium++
+  Farmner's Delight
+  Farsight
+  Fast Entity Transfer
+  Fishermens [sic] Trap
+  Forgery
+  Global Packs
+  HT's TreeChop
+  Jade
+  Just Enough Breeding
+  Just Enough Effect Descriptions
+  Just Enough Resources
+  Kiwi
+  Memory Leak Fix
+  ModernFix
+  Puzzles Lib
+  Quark
+  Respiteful
+  Simple Voice Chat
+  Snow! Real Magic!
+  Sooty Chimneys
+  Wares
+  Waystones
+  YUNG's API
+  YUNG's Better Nether Fortresses
+```

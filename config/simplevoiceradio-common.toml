@@ -1,0 +1,9 @@
+#If true, a received radio transmission will be audible to everyone around the player holding the receiving radio
+entity_voice_channel = true
+#The maximum distance (in blocks) a player can be from another player holding a handheld radio and still hear that player's received audio - has no effect if entity_voice_channel is false; 1-128, default 16
+#Range: 1 ~ 128
+radio_audible_range = 16
+#How much fuzz is applied to a radio transmission; 0-100, default 5
+#Range: 0 ~ 100
+radio_distortion_factor = 1
+

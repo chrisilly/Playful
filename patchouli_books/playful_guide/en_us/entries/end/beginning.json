@@ -1,0 +1,29 @@
+{
+    "name": "Beginning",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:end",
+    "advancement": "minecraft:story/enter_the_end",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I'm coughing up ink. Not like before. $(o)Black$() goo. But I made it.$(br2)This place is not at all as I planned. I must have done something horribly wrong. I could feel my experience failing moments before I saw the opening begin to form. At first I thought I had gone blind, but it's just the inky black void of this failed world. No life. No movement."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:chorus_fruit",
+            "text": "There's fruit! Something went right! I've eaten so much of it, but it I think I'm having brief lapses in memory. I'm still ill. I'm still weak.$(br2)I'm coughing up more ink, and it's turning the floor it touches into something weird..."
+        },
+        {
+            "type": "patchouli:entity",
+            "advancement": "minecraft:end/enter_end_gateway",
+            "entity": "cnb:end_whale",
+            "text": "Something alive! Big at that! They eat the fruit! I'm riding them across the depths with ease!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "advancement": "minecraft:end/elytra",
+            "item": "minecraft:elytra",
+            "text": "I found a dead whale.$(br2)I tried to work out how it flies and I realised the secret lies in the skin under its fins. I used the skin to make wings! They're not as good as the whales themselves. All the time I've been trapped here without a sign of a cure has made me desperate, and I tried propelling myself with fireworks $(n)which decidedly does not work$()... The wings still make it easier to glide and bounce between the island masses though."
+        }
+    ]
+}

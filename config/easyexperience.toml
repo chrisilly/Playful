@@ -1,0 +1,59 @@
+#If true, show debug messages in chat window when this mod gives you experience
+showDebugMessagesInChat = false
+
+["Mining ores"]
+	#If true, you will get experience when mining these ores.
+	1_EnableExpWhenMiningOres = true
+	#Min exp you can receive after mining nether gold ore.
+	NetherGoldMinExperience = 1
+	#Max exp you can receive after mining nether gold ore.
+	NetherGoldMaxExperience = 4
+	#Min exp you can receive after mining copper ore.
+	CopperMinExperience = 1
+	#Max exp you can receive after mining copper ore.
+	CopperMaxExperience = 5
+	#Min exp you can receive after mining iron ore.
+	IronMinExperience = 2
+	#Max exp you can receive after mining iron ore.
+	IronMaxExperience = 6
+	#Min exp you can receive after mining lapis lazuli/quartz.
+	LapisLazuliQuartzMinExp = 2
+	#Max exp you can receive after mining lapis lazuli/quartz.
+	LapisLazuliQuartzExp = 6
+	#Min exp you can receive after mining gold ore.
+	GoldMinExperience = 3
+	#Max exp you can receive after mining gold ore.
+	GoldMaxExperience = 7
+	#Min exp you can receive after mining diamond/emerald ore.
+	DiamondEmeraldMinExperience = 5
+	#Max exp you can receive after mining diamond/emerald ore.
+	DiamondEmeraldMaxExperience = 10
+
+["Harvest crops"]
+	#If true, you will get experience after harvest wheat, carrot, potato, beetroot, pumpkin or melon.
+	1_EnableExpWhenHarvestCrops = true
+	#Min exp you can receive after harvest a crop.
+	HarvestMinExperience = 2
+	#Max exp you can receive after harvest a crop.
+	HarvestMaxExperience = 3
+
+["Craft diamond equipment"]
+	#If true, you will get experience after crafting diamond equipment.
+	1_EnableExpWhenCrafting = false
+	#Exp you get when you craft any diamond armor/weapon
+	ExpForCraftingDiamondEquipment = 25
+
+["Fishing items"]
+	#If true, you will get experience after fishing items
+	1_EnableExpWhenFishing = true
+	#Min exp you can receive after fishing an item.
+	FishingMinExperience = 5
+	#Max exp you can receive after fishing an item.
+	FishingMaxExperience = 10
+
+["Sleep in bed"]
+	#If true, you will get experience after sleeping in bed.
+	1_EnableExpWhenSleep = false
+	#Exp you get when you wake up after sleeping on a bed.
+	ExpForSleep = 5
+

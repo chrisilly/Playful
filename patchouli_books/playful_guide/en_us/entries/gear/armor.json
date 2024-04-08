@@ -1,0 +1,32 @@
+{
+    "name": "Won't Break My Bones",
+    "icon": "minecraft:bone",
+    "category": "patchouli:gear",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Silver",
+            "item": "caverns_and_chasms:silver_helmet,caverns_and_chasms:silver_chestplate,caverns_and_chasms:silver_leggings,caverns_and_chasms:silver_boots",
+            "text": "I kept seeing these ancient structures, and after repairing one, a portal opened! If I'm going into it, I have to make preparations. This new silver armor I've made seems to protect me against magical damage, so it seems perfect for venturing into this magical portal."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Gold",
+            "item": "minecraft:golden_helmet,minecraft:golden_chestplate,minecraft:golden_leggings,minecraft:golden_boots",
+            "text": "The Nether is far more dangerous than I first realized, the natives seem to attack me on sight if I'm not wearing something made of pure gold. The interesting part is that while wearing it, I feel as if I'm luckier, creatures yield more loot and I gain more experience, I feel lighter on my feet as well, coming into the Nether was a great decision!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Sanguine",
+            "item": "caverns_and_chasms:sanguine_helmet,caverns_and_chasms:sanguine_chestplate,caverns_and_chasms:sanguine_leggings,caverns_and_chasms:sanguine_boots",
+            "text": "I should have never entered the Nether, it has greatly accelerated my illness. Lucky for me, I've devised a great way to stay healthy! I simply need to absorb the life force of other creatures! They don't carry any illness, so I just need more of their life force to stay healthy!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Diamond",
+            "item": "minecraft:diamond_helmet,minecraft:diamond_chestplate,minecraft:diamond_leggings,minecraft:diamond_boots",
+            "text": "No matter how much life force I absorb it does NOTHING to make me better, I've become far too weak and have used precious diamonds to keep myself safer. I've tried enchanting some of it too, but it just kept coming out wrong. I need something better, maybe the Nether is the answer, it HAS to be!"
+        }
+    ]
+}

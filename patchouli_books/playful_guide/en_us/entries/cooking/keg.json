@@ -1,0 +1,20 @@
+{
+    "name": "Fermenting & Brewing",
+    "icon": "brewinandchewin:keg",
+    "category": "patchouli:cooking",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "title": "Fermenting & Brewing",
+            "recipe": "brewinandchewin:keg",
+            "text": "I cannot live without cheese and beer. Gods this kegwork has been difficult to perfect, but it's been worth it. I've been winning over the townsfolk bigtime."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title": "Temperature and Care",
+            "item": "brewinandchewin:unripe_flaxen_cheese_wheel,brewinandchewin:beer,brewinandchewin:pickled_pickles",
+            "text": "For the best cheese, the keg needs to be heated just slightly. Letting it sit next to magma does the trick. It's also important to place the unripe cheesewheel someplace and let it sit. The look and smell when it's done is unmistakable.$(br2)I've also had to surround the keg with snow or ice when making high quality pickles."
+        }
+    ]
+}

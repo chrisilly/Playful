@@ -1,0 +1,92 @@
+{
+    "name": "Zoology",
+    "icon": "minecraft:egg",
+    "category": "patchouli:essentials",
+    "advancement": "minecraft:husbandry/breed_an_animal",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There's so much to learn about the wildlife than I ever realise. And it feels like stranger things have been happening in nature in any case. It's going to be worth documenting."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:ferret",
+            "text": "These guys love raw rabbit. When I later fed them raw chicken, they started finding me things."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:dumbo_octopus",
+            "text": "This thing saved me from drowning!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:dragonfly",
+            "text": "Loves spider-eyes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crittersandcompanions:iron_dragonfly_armor",
+            "text": "I gave my dragonfly a suit!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:leaf_insect",
+            "text": "Didn't spot these cuties until I started playing music!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:red_panda",
+            "text": "Loves bamboo and sweet berries. Monsters seem scared of them!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:shima_enaga",
+            "text": "Makes the cutest noise eating seeds."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:jumping_spider",
+            "text": "This guy ate my dragonfly's wings... but now he follows me around and occasionally drops silk."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:sporeling",
+            "text": "These go crazy for bonemeal!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cnb:crafting/shaped/sporeling_backpack",
+            "text": "The sporelings were so adorable I designed a backpack to carry them with me!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:lilytad",
+            "text": "I was afraid I'd hurt them, but I managed to shear its beautiful flower off its head with no issue."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:minipad",
+            "text": "Cuter lilytads! I made a flower crown out of their flowers."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:cindershell",
+            "text": "I've only read about this one. It's said that they can infinitely fuel a cinder furnace if you place one on their backs."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:yeti",
+            "text": "I almost got killed. Luckily they mostly went for the melon slices and berries in my backpack once they got to me."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cnb:cactem",
+            "text": "The elders insist on trading my totems away from me?"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:animal_dictionary",
+            "text": "There are too many animals to keep track of. From now on, I'm going to keep all my wild discoveries in another book."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Enchanting",
+    "icon": "minecraft:enchanting_table",
+    "category": "patchouli:gear",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "After searching for countless moons, I've finally found an intact village! The librarians told me about glimmering tools that have been spotted in old ruins nearby, imbued with magical effects. These effects can even be stored in books, but the villagers have stopped looking for them. $(n)The librarians refuse to sell any of the enchanted books that they still have."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infusion_table:infusion_table",
+            "title": "Storing Enchantments",
+            "text": "I went exploring and found some enchanted tools! The villagers weren't very happy with me at first, but later showed me how to extract the magic into pages. First you place a book on an $(l)infusion table$(), then the item, and then you ignite it."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Note:$() I can't seem to transfer the magic without destroying its source..."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:enchanting_table",
+            "title": "Enchanting",
+            "text": "After helping around in the village, one of the librarians shared in confidence that you can $(o)create$() magical effects with only lapis if you have an $(l)enchanting table$()! Though this requires $(n)experience$() which not even the master librarians have."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It's weird... I can feel my experience physically brewing inside me when I'm near this thing. For a moment I thought I was going to throw up, but only liquid experience came out, glowing and sparkly. (What in the world?) It was a huge release, though. I should keep some glass bottles on me next time I use the enchanting table."
+        }
+    ]
+}

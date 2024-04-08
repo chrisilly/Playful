@@ -1,0 +1,20 @@
+{
+    "name": "A Letter",
+    "icon": "quark:pathfinders_quill",
+    "category": "patchouli:deepdark",
+    "advancement": "minecraft:end/kill_dragon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I made it back. $(k)I threw up$() so $(k)much$() blackness. $(k)I think it's my$() experience$(k)—it's corrupted and$() broken. My skin $(k)is turning black$(). My vision is fading."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "I went $(k)back to$() where $(k)my$() shelter was. $(k)There was$() a letter! $(k)My friends! They$() didn't forget me!$(br2) I threw up $(k)all over the$() letter. They ran underground $(k)to protect themselves from a $() dragon on the loose. $(k)They$() built a city. So much time $(k)has passed$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(k)I'm going to find and$() banish $(k)this$() dragon $(k)with$() whatever $(k)experience I have$() left."
+        }
+    ]
+}

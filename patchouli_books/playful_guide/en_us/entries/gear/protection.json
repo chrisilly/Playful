@@ -1,0 +1,31 @@
+{
+    "name": "Sticks and Stones",
+    "icon": "minecraft:stick",
+    "category": "patchouli:gear",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Leather",
+            "item": "minecraft:leather_helmet,minecraft:leather_chestplate,minecraft:leather_leggings,minecraft:leather_boots",
+            "text": "If I'm going to survive, I'm going to need to protect myself. There are many monsters coming out of a nearby cave. Luckily they killed some cows, and I managed to gather some of their leather to fashion into some armor. Maybe I'll be able to venture into the cave and see where these monsters are coming from. The nights feel a lot warmer with this armor, which is also a major plus."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "windswept:snow_boots_from_silver",
+            "text": "Leather boots seem to prevent me from sinking into the snow, but after making Snow Boots, I seem to zoom past any dangers of the cold mountains."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Chainmail",
+            "item": "minecraft:chainmail_helmet,minecraft:chainmail_chestplate,minecraft:chainmail_leggings,minecraft:chainmail_boots",
+            "text": "The cavern proved very dangerous, and monsters seemed to appear from thin air! After illuminating my surroundings, I was safe enough to loot a nearby chest, and found some better armor, perfectly suited to defeat these monsters, as I seem to hit them harder while donning the chainmail."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Iron",
+            "item": "minecraft:iron_helmet,minecraft:iron_chestplate,minecraft:iron_leggings,minecraft:iron_boots",
+            "text": "After mining enough iron, I managed to make some armor for myself, but this one doesn't seem to empower me in any way, so I have to find a way to $(l:gear/enchanting)enhance it$(/l) myself."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Crafting",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:essentials",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I've decided to settle and build shelter here, near the village the wandering trader mentioned.$(br2)Without the saw and stonecutter, this construction work would be torment."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sawmill:sawmill",
+            "recipe2": "minecraft:stonecutter"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "clayworks:kiln",
+            "text": "Other than the blast furnace and the smoker, I've found that the kiln saves me a lot of time smelting miscellaneous items."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blast_furnace",
+            "recipe2": "minecraft:smoker"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "A world worth capturing!",
+    "icon": "exposure:photograph",
+    "category": "patchouli:multiplayer",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "exposure:camera",
+            "title": "Click!",
+            "text": "This thing is insane! Smile if you're in frame! You can hang all your friends and family on the wall! $(o)Or your cats and birds...$() Make sure you put in films before you hit the shutter!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "exposure:lightroom",
+            "title": "Developing",
+            "text": "Making photographs from these films is a bit tricky and requires a lot of dyes, but once they're printed, they are beautiful.$(br2)$(l)Note:$() Spilling black gooey ink on your friends leaves permanent stains."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "exposure:black_and_white_film",
+            "recipe2": "exposure:color_film",
+            "title": "Films"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "exposure:album",
+            "title": "Memories for life",
+            "text": "My wall got kinda cluttered. $(o)I have a lot of pets.$() I've decided it's a better idea to put the photographs in a book."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "A Mini Map",
+    "icon": "map_atlases:atlas",
+    "category": "patchouli:essentials",
+    "sortnum": 0,
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I keep getting lost, and I have no idea where I'm going! I've tried making maps, but I keep shuffling them and they're all out of order and... ugh. It's time I make the most useful change I ever could; I need an organised Atlas that I can see in the corner of my eye at all times. I'll call it my $(6)$(l)minimap$()."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title": "Making Your Atlas",
+            "item": "map_atlases:atlas",
+            "link_recipe": true,
+            "text": "With a book, an adhesive such as slime or honey and a $(n)non-empty$() map, I easily bound together an Atlas. I've also saved a $(l)special slot$() for it, so it doesn't take up unnecessary space. The scale of my minimap will depend on the scale of the map I used to make it, of course, which I adjusted in the cartography table."
+        },
+        {
+            "type":"patchouli:crafting",
+            "title": "Maintaining Your Atlas",
+            "recipe": "minecraft:map",
+            "text": "I've been exploring a lot, but haven't found a single soul yet. I've run out of pages in my Atlas. I'll have to make a lot more maps and add them to the Atlas using a cartography table."
+        },
+        {
+            "type":"patchouli:crafting",
+            "title": "Editing Your Atlas",
+            "recipe": "minecraft:cartography_table",
+            "text": "Today I found a wandering trader! A sign of life! He said he had a map of the nearest village, so I used shears to rip a map of my own out of my Atlas to trade for it. I added the new map directly into my Atlas, and made a copy of the Atlas just in case."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title": "Keeping Track",
+            "item": "minecraft:white_banner,minecraft:beacon,supplementaries:sign_post_oak,minecraft:bell,minecraft:campfire,minecraft:conduit,minecraft:lodestone,minecraft:respawn_anchor,supplementaries:flag_white,waystones:waystone",
+            "text": "I've been having a lot of fun illustrating different things in my Atlas. I can only really draw out certain blocks, but it still helps keep track of where things are.$(br2)$(7)$(l)(Right-click a map-marker block with your Atlas to save a waypoint to your map.)$()"
+        }
+    ]
+}

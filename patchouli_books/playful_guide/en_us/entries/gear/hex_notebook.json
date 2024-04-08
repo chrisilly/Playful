@@ -1,0 +1,18 @@
+{
+    "name": "The Magical Lexicon",
+    "icon": "hexcasting:spellbook",
+    "category": "patchouli:gear",
+    "advancement": "hexcasting:root",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "hexcasting:patchi_book",
+            "text": "I found... some powdery stuff. Very shiny and... $(o)feels$() strong. I pulled out my other notebook to take some notes, but the notebook transformed into some sort of lexicon? Its contents are complicated, magical, and promise $(o)endless possibilities..."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If I could just wrap my head around vectors, math and execution order, then maybe..."
+        }
+    ]
+}

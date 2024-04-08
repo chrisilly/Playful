@@ -1,0 +1,68 @@
+{
+    "name": "Fishing",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:essentials",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Fish",
+            "item": "minecraft:cod,minecraft:salmon,minecraft:tropical_fish,minecraft:pufferfish,upgrade_aquatic:pike,upgrade_aquatic:perch,upgrade_aquatic:lionfish",
+            "text": "There's more fish to find than I thought. The most common types I've found so far are the cods, salmons, pikes, perches, and lionfish."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:koi",
+            "text": "Today I caught a koi fish, but I didn't have the heart to kill it. It makes me feel... $(l)serene$(). Even at night, I forget monsters exist."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Squids!",
+            "entity": "minecraft:squid",
+            "scale": 0.3,
+            "text": "Fishing is pretty easy! I've even started fishing up whole squids! This way I can salvage their tentacles with a $(l:cooking/prepping)cutting board$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Glow Squids",
+            "entity": "minecraft:glow_squid",
+            "scale": 0.3,
+            "text": "I should be careful with this one. It nearly drowned me! It caught my attention and for some reason I couldn't look away. If you get past its hypnotizing effect, this variant proves more useful!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fishermens_trap:fishtrap_farmersdelight",
+            "text": "Okay. I'm bored, but I still need the fish for my delectable seafood. This trap should catch something from the ocean floor once in a while."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "The Tastes of Fish",
+            "item": "minecraft:bread,minecraft:beetroot,minecraft:sweet_berries,minecraft:melon_slice,minecraft:golden_carrot",
+            "text": "Adding bait to the fish trap has yielded actual results. What I didn't expect is that different kinds of bait attract different kinds of fish!$(br2)Bread is a pretty good all-rounder, but I've found that different fish have preferances for beetroot, sweet berries, melon slices, and golden carrots."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "The Cutest Helper",
+            "entity": "crittersandcompanions:otter",
+            "text": "I've been catching clams and little guy opens them for me!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "So many pearls!",
+            "recipe": "crittersandcompanions:pearl_necklace_1",
+            "text": "I'm in love with the otter! We've gathered so many pearls I made a necklace. I might be crazy, but I feel faster and more safe in water when I wear it."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Abominocean",
+            "entity": "upgrade_aquatic:thrasher",
+            "text": "GODS SAVE ME. This thing almost tore me to shreds! DO NOT FISH IN DARK WATERS."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Deadly and Useful!",
+            "recipe": "upgrade_aquatic:trident",
+            "text": "Some of the sharkthing's teeth came loose in its chase. Turns out it's a really durable material! Sturdy enough to build with, honestly. Most importantly, it gives me a chance to give these $(k)assholes$() a taste of their own medicine."
+        }
+    ]
+}

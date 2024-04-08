@@ -1,0 +1,28 @@
+{
+    "name": "Cooking",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:cooking",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Cooking",
+            "text": "I started out with a copper pot. It works wonders, and heats really easily over a stove or campfire.$(br2)Though, ever since I upgraded to an iron cooking pot, I've been able to make a lot more recipes. It's got a bit more room in it."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "miners_delight:copper_pot",
+            "recipe2": "farmersdelight:cooking_pot"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Frying",
+            "text": "I slapped a ton of bacon on the skillet and fell asleep. Luckily the bacon popped off one by one to the side when it was finished. $(br2)When I don't doze I kind of like just holding the pan over a fire in my main hand and the bacon in my other, slapping on the next strip every minute or so."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"farmersdelight:skillet",
+            "recipe2": "farmersdelight:stove"
+        }
+    ]
+}

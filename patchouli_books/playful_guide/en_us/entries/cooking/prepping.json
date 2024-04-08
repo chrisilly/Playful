@@ -1,0 +1,24 @@
+{
+    "name": "Prepping",
+    "icon": "farmersdelight:flint_knife",
+    "category": "patchouli:cooking",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I've been able to squeeze out a whole lot more from my foods by cutting them up first, ensuring I use only as much of an ingredient as is really necessary.$(br2)Slaughtering with the knife has also yielded much better cuts of meat."
+        },
+        {
+            "type":"patchouli:crafting",
+            "title": "Chopping",
+            "recipe": "farmersdelight:cutting_board",
+            "recipe2": "farmersdelight:flint_knife"
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "title": "Big Knife for Fat Pig",
+            "recipe": "nethersdelight:iron_machete",
+            "text": "I've ran out of food and it seems my flimsy knife just doesn't cut it anymore. Heheh. I need something bigger if I want to kill these Nether Pigs, so I've crafted a bigger knife! This machete cuts through these Hogs like butter!"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		},
+        {
+			"item": "minecraft:paper"
+		}
+	],
+	"result": {
+		"item": "minecraft:map"
+	}
+}

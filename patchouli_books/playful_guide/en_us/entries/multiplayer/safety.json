@@ -1,0 +1,31 @@
+{
+    "name": "Safety",
+    "icon": "monobank:monobank",
+    "category": "patchouli:multiplayer",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "monobank:monobank",
+            "text": "Somebody foul seems to be around, because my $(k)emeralds$() have gone missing. I've made a new, sturdy contraption to keep it safe. I'd like to see them get through $(o)$(l)this."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "monobank:replacement_lock",
+            "text": "... they got through it. They've also started stealing my food. This time I'll set the combination more thoughtfully. Perhaps I should lock it with something rarer."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infinitybuttons:stone_brick_secret_button",
+            "title": "Secret Buttons",
+            "text": "While I'm at it, I should pobably hide it behind a secret entrance... Something $(o)really$() subtle."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The stealing has become more rampant and less subtle, and yet I've seen no sign of $(o)them$()... Since I hid and replaced the lock on my vault, they haven't touched it, but the nearby village has been destroyed. I've tried $(l:multiplayer/communication#sending_mail)writing to my friends$(/l) but have gotten no response in a while. They all settled so far away. $(br2)I don't know what to do."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "My shelter got destroyed. $(br2)I don't even have my $(l:multiplayer/memories)photographs$(/l) anymore. $(br2)I need to equip myself with $(l:magic/enchanting)something more enhanced...$(/l)"
+        }
+    ]
+}

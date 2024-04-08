@@ -1,0 +1,7 @@
+{
+    "name": "Playful Guide",
+    "landing_text": "I am $(o)definitely$() lost...",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false
+}

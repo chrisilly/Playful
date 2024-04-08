@@ -1,0 +1,9 @@
+{
+    "type": "clayworks:baking",
+    "cookingtime": 200,
+    "experience": 0.0,
+    "ingredient": {
+      "item": "windswept:frozen_flesh"
+    },
+    "result": "minecraft:leather"
+  }

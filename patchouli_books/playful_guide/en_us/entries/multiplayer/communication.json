@@ -1,0 +1,32 @@
+{
+    "name": "Communication",
+    "icon": "simplevoiceradio:radio_item",
+    "category": "patchouli:multiplayer",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Things were definitely easier when my friends lived closer. Taking care of myself, especially in this state, is a struggle. $(br2)I find myself thinking out loud as if my friends far away can hear me, which... is silly. Even sillier is when I think my thoughts $(o)silently$() as if they can hear me."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It should be obvious, but $(n)without tools, friends need to be close if they're to hear me.$(br2)Lately I've just been sitting $(l)('<')$() or lying $(l)('C')$() around a lot."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Giving and Receiving",
+            "anchor": "sending_mail",
+            "text": "I'm glad we set up a mail system before they left. Now, assuming they have a postbox of their own, they can reach me at any time if I have a mailbox.$(br2)I'm not $(o)totally$() sure how the post box works, but anything I put in seems to find the right place. I think."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mighty_mail:oak_mail_box",
+            "recipe2": "mighty_mail:post_box",
+            "title": "Mail System"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplevoiceradio:radio",
+            "text": "Speaking in an empty room is a lot less awkward when you know your voice is being transmitted where it needs to go. I think my friends accidentally tune into the wrong frequency from time to time, though."
+        }
+    ]
+}
