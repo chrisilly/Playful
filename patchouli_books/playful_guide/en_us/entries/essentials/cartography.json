@@ -31,8 +31,15 @@
         {
             "type":"patchouli:spotlight",
             "title": "Keeping Track",
-            "item": "minecraft:white_banner,minecraft:beacon,supplementaries:sign_post_oak,minecraft:bell,minecraft:campfire,minecraft:conduit,minecraft:lodestone,minecraft:respawn_anchor,supplementaries:flag_white,waystones:waystone",
+            "item": "minecraft:white_banner,minecraft:beacon,supplementaries:sign_post_oak,minecraft:bell,minecraft:campfire,minecraft:conduit,minecraft:lodestone,minecraft:respawn_anchor,minecraft:red_bed,supplementaries:flag_white,waystones:waystone",
             "text": "I've been having a lot of fun illustrating different things in my Atlas. I can only really draw out certain blocks, but it still helps keep track of where things are.$(br2)$(7)$(l)(Right-click a map-marker block with your Atlas to save a waypoint to your map.)$()"
-        }
+        },
+		{
+			"type": "patchouli:crafting",
+			"advancement": "minecraft:story/enter_the_nether",
+			"title": "Mapping Hell",
+			"recipe": "supplementaries:slice_map",
+			"text": "It seems my Atlas doesn’t work as well in the Nether. I need a special type of map to be able to chart my surroundings, a slice map if you will, that charts the areas around me according to my elevation. I could also use this for caving in the overworld."
+		}
     ]
 }

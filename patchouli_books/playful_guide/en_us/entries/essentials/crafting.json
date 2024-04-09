@@ -1,12 +1,12 @@
 {
-    "name": "Crafting",
+    "name": "Building & Crafting",
     "icon": "minecraft:crafting_table",
     "category": "patchouli:essentials",
     "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "I've decided to settle and build shelter here, near the village the wandering trader mentioned.$(br2)Without the saw and stonecutter, this construction work would be torment."
+            "text": "I've decided to settle and build a more permanent shelter near the village the wandering trader mentioned.$(br2)Without the saw and stonecutter, this construction work would be torment."
         },
         {
             "type": "patchouli:crafting",
@@ -15,13 +15,41 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "clayworks:kiln",
-            "text": "Other than the blast furnace and the smoker, I've found that the kiln saves me a lot of time smelting miscellaneous items."
-        },
-        {
-            "type": "patchouli:crafting",
             "recipe": "minecraft:blast_furnace",
             "recipe2": "minecraft:smoker"
-        }
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "clayworks:kiln",
+            "text": "While the blast furnace and smoker are great for smelting ores and cooking food, I've found that the kiln saves me a lot of time smelting other materials, such as glass and other items."
+        },
+		{
+			"type": "patchouli:crafting",
+			"title": "Repairs",
+			"recipe": "minecraft:anvil",
+			"text": "I’ve been using my anvil to repair my tools so much it has started to form cracks on the surface, lucky for me I can just repair it! Imagine having to craft a new one using THREE iron blocks when I can use only ONE of them to repair it."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Chimneys",
+			"recipe": "minecraft:brick_chimney",
+			"text": "I ended up getting into $(l:cooking/cooking)cooking$(/l) so much I needed a chimney to not smoke up the place."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Random placement",
+			"recipe": "quark:tools/crafting/trowel",
+			"text": "I wanted to add some noise to my block placement, so I made this handy tool that places a random block from my $(l)hotbar$(), making it easy to diversify my builds."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Dyeing item frames",
+			"text": "After I finished building my home, I had so many items to store away I needed to sort them, luckily for me, I can make item frames and dye them to make chests easily recognizable!"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Fancier beds",
+			"text": "Finally I can sleep in my new home! What better way to sleep comfortably in a custom made bed? I designed a pattern intended for banners, and made a bedsheet after it! Although the bedsheet manufacturer doesn't seem to work with newer brands..."
+		}
     ]
 }
