@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#Disable this to turn off the quark system that makes features turn off when specified mods with the same content are loaded
@@ -736,8 +736,8 @@
 		"Enable Fence Gates" = true
 
 	[tweaks.compasses_work_everywhere]
-		"Enable Compass Nerf" = true
-		"Enable Clock Nerf" = true
+		"Enable Compass Nerf" = false
+		"Enable Clock Nerf" = false
 		"Enable Nether" = true
 		"Enable End" = true
 
