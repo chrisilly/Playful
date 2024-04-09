@@ -27,6 +27,18 @@
             "title": "Diamond",
             "item": "minecraft:diamond_helmet,minecraft:diamond_chestplate,minecraft:diamond_leggings,minecraft:diamond_boots",
             "text": "No matter how much life force I absorb it does NOTHING to make me better, I've become far too weak and have used precious diamonds to keep myself safer. I've tried enchanting some of it too, but it just kept coming out wrong. I need something better, maybe the Nether is the answer, it HAS to be!"
-        }
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Netherite",
+			"item": "minecraft:netherite_helmet,minecraft:netherite_chestplate,minecraft:netherite_leggings,minecraft:netherite_boots",
+			"text": "I finally found some materials for better armor, I had to slaughter an entire structure worth of piglins for this, but I managed to upgrade my diamond armor into something even stronger! The heat of the Nether doesn’t seem to bother me as much anymore."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"title": "Necromium",
+			"item": "caverns_and_chasms:necromium_helmet,caverns_and_chasms:necromium_chestplate,caverns_and_chasms:necromium_leggings,caverns_and_chasms:necromium_boots",
+			"text": "The answer was always so clear I just couldn’t see it! Who cares if my illness makes me weaker! I can make everything around me as weak as I am! I will make creatures fear me as I’ve feared them for so long! This new alloy I made is incredible!"
+		}
     ]
 }
