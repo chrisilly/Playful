@@ -17,7 +17,7 @@
   },
   "overlay": {
     "overlayPosX": 0.5,
-    "overlayPosY": 1.0,
+    "overlayPosY": 0.99,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
@@ -64,7 +64,7 @@
       }
     },
     "activeTheme": "jade:dark",
-    "iconMode": "TOP",
+    "iconMode": "CENTERED",
     "animation": true
   },
   "formatting": {
