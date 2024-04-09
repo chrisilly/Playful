@@ -57,10 +57,10 @@
 		# - You can also specify a mod: "treemod:.*_log"
 		# - To also match stripped versions: ".*_log(_stripped)?", where ? means that the text in the parenthesis is optional
 		#For more help, see https://github.com/hammertater/treechop/wiki/Configuration
-		blocks = ["#treechop:choppables", "#minecraft:logs", "#forge:mushroom_stems"]
+		blocks = ["#treechop:choppables", "#minecraft:logs"]
 		#Blocks that should never be chopped, even if included in the list above
 		#Specify using registry names (mod:block), tags (#mod:tag), and namespaces (@mod)
-		exceptions = ["minecraft:bamboo", "#dynamictrees:branches", "dynamictrees:trunk_shell"]
+		exceptions = ["minecraft:bamboo", "#dynamictrees:branches", "dynamictrees:trunk_shell", "#forge:mushroom_stems", "minecraft:mushroom_stem"]
 
 	[treeDetection.leaves]
 		#Blocks that should be considered leaves
@@ -182,8 +182,8 @@
 	[compatibility.trees]
 
 		[compatibility.trees.hugeMushrooms]
-			logs = ["#forge:mushroom_stems"]
-			leaves = ["#forge:mushroom_caps"]
+			logs = []
+			leaves = []
 
 		[compatibility.trees.hugeFungi]
 			logs = ["#minecraft:crimson_stems", "#minecraft:warped_stems"]

@@ -48,13 +48,8 @@
   },
   "treechop": {
     "plugin": true,
-    "show_tree_block_counts": true,
-    "show_num_chops_remaining": true
-  },
-  "strawgolem": {
-    "lifespan": true,
-    "jade": true,
-    "hunger": true
+    "show_tree_block_counts": false,
+    "show_num_chops_remaining": false
   },
   "jade": {
     "coordinates.rel": false,
