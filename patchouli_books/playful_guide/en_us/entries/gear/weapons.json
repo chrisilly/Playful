@@ -1,0 +1,32 @@
+{
+    "name": "Offense is the best defense",
+    "icon": "minecraft:iron_sword",
+    "category": "patchouli:gear",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Quiver",
+            "item": "supplementaries:quiver",
+            "text": "I’ve Gathered multiple types of arrows and they kept clogging my inventory space. Thankfully I found a quiver that made storing them far easier, I simply need to grab the quiver and right click any arrows I want to store inside. By holding $(l)“J”$() and scrolling, I can select which arrow to fire."
+        },
+		{
+			"type": "patchouli:crafting",
+			"title": "Large Arrows",
+			"recipe": "caverns_and_chasms:large_arrow",
+			"text": "After using far too many arrows to take down a grizzly bear, I’ve decided to make BIGGER arrows! Surely they will take those hardy bears down quicker than normal sized arrows!"
+		},
+        {
+            "type": "patchouli:crafting",
+            "title": "Kunai",
+            "recipe": "caverns_and_chasms:kunai",
+            "text": "After forgetting my bow at home while exploring, I decided to craft kunais! It’s impressive how quickly I can throw them in succession! As an added bonus I can always pick them up later if I miss my mark."
+        },
+		{
+			"type": "patchouli:crafting",
+			"title": "Defense is also good",
+			"recipe": "minecraft:shield",
+			"text": "Those pesky skeletons just keep shooting at me from afar and I can’t get close without getting hurt. Lucky for me I just made this shield, arrows are a trouble of the past! Not to mention how badass my new shield looks with colors on it, those skeletons will have to stare at my glorious art while they shoot at me!"
+		}
+    ]
+}

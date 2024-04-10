@@ -8,7 +8,7 @@
             "type": "patchouli:spotlight",
             "title": "Fish",
             "item": "minecraft:cod,minecraft:salmon,minecraft:tropical_fish,minecraft:pufferfish,upgrade_aquatic:pike,upgrade_aquatic:perch,upgrade_aquatic:lionfish",
-            "text": "There's more fish to find than I thought. The most common types I've found so far are the cods, salmons, pikes, perches, and lionfish."
+            "text": "There's more fish to find than I thought. The most common types I've found so far are the cods, salmons, pikes, perches, and lionfish.$(br2)Different bodies of water seem to yield different types of fish, I might try fishing in a cave next."
         },
         {
             "type": "patchouli:entity",

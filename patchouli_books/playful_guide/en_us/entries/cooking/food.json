@@ -1,0 +1,20 @@
+{
+    "name": "Food",
+    "icon": "minecraft:porkchop",
+    "category": "patchouli:cooking",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Helping Pigs",
+			"item": "environmental:truffle",
+            "text": "My pigs have been such cuties lately that I’ve decided to treat them to golden carrots, and to my surprise, they got so happy with me they led me straight to a colony of Truffles! They are such farmhands!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Salting Foods",
+			"item": "salt:raw_rock_salt_block,salt:raw_rock_salt,salt:salt",
+            "text": "I've found that salting my food makes it taste way better! (Who could've guessed) Keeping me full for longer as well. I think I can also propagate the salt I already have by slowly dripping water onto a block of raw salt."
+        }
+    ]
+}
