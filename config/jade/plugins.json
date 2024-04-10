@@ -14,7 +14,7 @@
     "note_block": true,
     "beehive": true,
     "block_inventory.show_name_amount": 5,
-    "block_inventory": true,
+    "block_inventory": false,
     "player_head": true,
     "block_states": false,
     "lectern": true,
