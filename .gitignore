@@ -25,6 +25,8 @@ crash-reports
 /saves
 /schematics
 /screenshots
+/cherishedworlds-favorites.dat
+/config/jei/world/
 
 # KubeJS
 /kubeJS/assets
@@ -49,3 +51,5 @@ crash-reports
 /global_packs/required_data/player*
 /global_packs/required_data/silence*
 /global_packs/required_data/VanillaTweaks*
+/global_packs/required_data/custom*
+/global_packs/required_data/double*
