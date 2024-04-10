@@ -29,7 +29,7 @@
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 	#Show/Hide armor
 	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
@@ -60,7 +60,7 @@
 	#Potion HUD mini mode
 	potMini = true
 	#Potion HUD horizontal mode
-	potHor = true
+	potHor = false
 	#Full bar duration
 	#Range: > 1
 	barDuration = 300
@@ -78,7 +78,7 @@
 	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 144
+	yPos = 103
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
@@ -93,64 +93,64 @@
 	yArmPos = 70
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	potValign = "BOTTOM"
+	potValign = "TOP"
 	#Potion HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	potHalign = "MIDDLE"
+	potHalign = "RIGHT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = -82
+	xPotionPos = 48
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 63
+	yPotionPos = 3
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 105
 	#Helmet position (Y)
 	#Range: -9999 ~ 9999
-	helmPosY = 58
+	helmPosY = 61
 	#Chestplate position (X)
 	#Range: -9999 ~ 9999
 	chestPosX = 105
 	#Chestplate position (Y)
 	#Range: -9999 ~ 9999
-	chestPosY = 41
+	chestPosY = 45
 	#Leggings position (X)
 	#Range: -9999 ~ 9999
 	legPosX = -105
 	#Leggings position (Y)
 	#Range: -9999 ~ 9999
-	legPosY = 56
+	legPosY = 60
 	#Boots position (X)
 	#Range: -9999 ~ 9999
 	bootPosX = -105
 	#Boots position (Y)
 	#Range: -9999 ~ 9999
-	bootPosY = 39
+	bootPosY = 44
 	#MainHand position (X)
 	#Range: -9999 ~ 9999
 	mainPosX = 105
 	#MainHand position (Y)
 	#Range: -9999 ~ 9999
-	mainPosY = 75
+	mainPosY = 77
 	#OffHand position (X)
 	#Range: -9999 ~ 9999
 	offPosX = -105
 	#OffHand position (Y)
 	#Range: -9999 ~ 9999
-	offPosY = 73
+	offPosY = 76
 	#Arrows position (X)
 	#Range: -9999 ~ 9999
-	arrPosX = 171
+	arrPosX = 104
 	#Arrows position (Y)
 	#Range: -9999 ~ 9999
-	arrPosY = 20
+	arrPosY = 93
 	#InvIcon position (X)
 	#Range: -9999 ~ 9999
-	invPosX = 139
+	invPosX = -105
 	#InvIcon position (Y)
 	#Range: -9999 ~ 9999
-	invPosY = 20
+	invPosY = 93
 	#Helmet horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	helmHal = "MIDDLE"
@@ -189,13 +189,13 @@
 	offVal = "BOTTOM"
 	#Arrows horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	arrHal = "LEFT"
+	arrHal = "MIDDLE"
 	#Arrows vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	arrVal = "BOTTOM"
 	#InvIcon horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHal = "LEFT"
+	invHal = "MIDDLE"
 	#InvIcon vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	invVal = "BOTTOM"
