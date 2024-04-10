@@ -1,0 +1,21 @@
+{
+    "type": "farmersrespite:brewing",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "cookingtime": 2400,
+    "experience": 0.35,
+    "ingredients": [
+        {
+        "item": "minecraft:chorus_fruit"
+        },
+        {
+        "item": "minecraft:sugar"
+        }
+    ],
+    "needwater": true,
+    "recipe_book_tab": "drinks",
+    "result": {
+        "item": "endersdelight:chorus_juice"
+    }
+}

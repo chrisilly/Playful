@@ -14,5 +14,7 @@ ServerEvents.recipes(event => {
     event.remove({mod: 'waystones'})
     
     event.remove({id: 'abnormals_delight:neapolitan/adzuki_curry'})
+
+    event.remove({id: 'farmersdelight:melon_juice'})
 })
 

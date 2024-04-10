@@ -1,0 +1,16 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:map"
+      }
+    ],
+    "result": [
+      {
+        "item": "supplementaries:slice_map"
+      }
+    ],
+    "tool": {
+      "tag": "supplementaries:altimeters"
+    }
+  }

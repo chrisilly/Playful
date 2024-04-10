@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "salt:raw_rock_salt"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "item": "salt:salt"
+      },
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "salt:salt"
+      }
+    ]
+  }

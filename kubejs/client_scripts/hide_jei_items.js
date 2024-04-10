@@ -80,4 +80,6 @@ JEIEvents.hideItems(event => {
 
     event.hide('alexsmobs:banana')
     event.hide('alexsmobs:banana_peel')
+
+    event.hide('overweight_farming:melon_juice')
 })
