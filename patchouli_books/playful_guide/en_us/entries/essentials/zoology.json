@@ -16,32 +16,27 @@
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:dumbo_octopus",
-            "text": "This thing saved me from drowning!"
+            "text": "I was almost drowning when it latched onto my face! Luckily it seemed to give me some extra air."
+        },
+		{
+            "type": "patchouli:entity",
+            "entity": "crittersandcompanions:leaf_insect",
+            "text": "I put on a music disk to dance for a while and a bunch of these cuties joined in!"
         },
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:dragonfly",
-            "text": "Loves spider-eyes."
+            "text": "After defeating some spiders, it sped towards their eyes for a snack, I had to look away."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "crittersandcompanions:iron_dragonfly_armor",
-            "text": "I gave my dragonfly a suit!"
-        },
-        {
-            "type": "patchouli:entity",
-            "entity": "crittersandcompanions:leaf_insect",
-            "text": "Didn't spot these cuties until I started playing music!"
+            "text": "After taming one of them, I felt it needed some extra protection!"
         },
         {
             "type": "patchouli:entity",
             "entity": "crittersandcompanions:red_panda",
-            "text": "Loves bamboo and sweet berries. Monsters seem scared of them!"
-        },
-        {
-            "type": "patchouli:entity",
-            "entity": "crittersandcompanions:shima_enaga",
-            "text": "Makes the cutest noise eating seeds."
+            "text": "Loves bamboo and sweet berries. They seemed very protective of me after I fed them, scaring away anyting that wanted to harm me!"
         },
         {
             "type": "patchouli:entity",
@@ -51,7 +46,7 @@
         {
             "type": "patchouli:entity",
             "entity": "cnb:sporeling",
-            "text": "These go crazy for bonemeal!"
+            "text": "These go crazy for bonemeal! I fed them some, but I hope they stay small and adorable!"
         },
         {
             "type": "patchouli:crafting",

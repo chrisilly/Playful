@@ -53,6 +53,20 @@
             "type":"patchouli:crafting",
             "recipe": "farmersdelight:basket",
             "recipe2": "miners_delight:sticky_basket"
-        }
+        },
+		{
+			"type": "patchouli:spotlight",
+			"advancement": "minecraft:story/lava_bucket",
+			"title": "Lava Bucket",
+			"item": "minecraft:lava_bucket",
+			"text": "Throwing things in lava is a great way to get rid of unwanted clutter, but it can be a bit unsafe to stand so near a pool of it. Now I just keep a lava bucket in my inventory, pick anything I don’t want anymore, and $(l)right click$() the bucket, straight to a lava bath they go!"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"advancement": "minecraft:story/enter_the_nether",
+			"title": "Compass",
+			"item": "minecraft:compass",
+			"text": "In my travels to other dimensions, I’ve noticed my trusty compass seemed to guide me straight back to the portal I came from. I wonder if the compass itself is trying to tell me to leave…"
+		}
     ]
 }
