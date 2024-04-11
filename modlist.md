@@ -6,9 +6,11 @@
 - AutoRegLib-1.8.2-55.jar
 - BetterAdvancements-1.19.2-0.3.0.148.jar
 - BetterF3-4.0.1-Forge-1.19.2.jar
+- BlockRunner-v4.2.2-1.19.2-Forge.jar
 - Bookshelf-Forge-1.19.2-16.2.18.jar
 - BrewinAndChewin-1.19-2.0.jar
 - CNB-1.19-1.5.4.jar
+- CTM-1.19.2-1.1.6+8.jar
 - Chimes-v2.0.1-1.19.2.jar
 - Clumps-forge-1.19.2-9.0.0+14.jar
 - Controlling-forge-1.19.2-10.0+7.jar
@@ -20,12 +22,12 @@
 - Droplight-1.19.2-forge-1.0.6.jar
 - EasyMagic-v4.3.3-1.19.2-Forge.jar
 - EasyShulkerBoxes-v4.4.1-1.19.2-Forge.jar
+- EchoChest-v4.0.2-1.19.2-Forge.jar
 - EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
 - EquipmentCompare-1.19.2-forge-1.3.2.jar
 - Fallingleaves-1.19.1-1.3.1.jar
 - FarmersDelight-1.19.2-1.2.4.jar
 - FarmersRespite-1.19-2.0.jar
-- GatewaysToEternity-1.19.2-3.2.2.jar
 - GeophilicReforged-v1.2.0.jar
 - Highlighter-1.19.1-1.1.4.jar
 - Iceberg-1.19.2-forge-1.1.4.jar
@@ -36,6 +38,7 @@
 - Kiwi-1.19.2-forge-8.3.6.jar
 - LeavesBeGone-v4.0.1-1.19.2-Forge.jar
 - LegendaryTooltips-1.19.2-forge-1.4.0.jar
+- Lychee-1.19.2-forge-3.15.2.jar
 - MouseTweaks-forge-mc1.19-2.23.jar
 - NekosEnchantedBooks-1.19-1.8.0.jar
 - NethersDelight-1.19-3.1.jar
@@ -51,10 +54,13 @@
 - SimpleRPC-forge-1.19-3.2.4.jar
 - SlotCycler-v4.0.3-1.19.2-Forge.jar
 - SnowRealMagic-1.19.2-forge-6.5.4.jar
+- TexelsPaintings-forge-1.19.2-6.2.0.jar
 - Tips-Forge-1.19.2-8.0.27.jar
 - TreeChop-1.19.2-forge-0.18.6.jar
 - VisualWorkbench-v4.2.4-1.19.2-Forge.jar
 - YungsApi-1.19.2-Forge-3.8.10.jar
+- YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar
+- YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar
 - YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar
 - YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar
 - YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar
@@ -67,7 +73,7 @@
 - appleskin-forge-mc1.19-2.4.2.jar
 - architectury-6.6.92-forge.jar
 - astikorcarts-1.19.2-1.1.2.jar
-- atmospheric-1.19.2-5.1.1.jar
+- atmospheric-1.19.2-5.1.2.jar
 - auditory-0.0.5-1.19.2.jar
 - autumnity-1.19.2-4.0.1.jar
 - backpacked-forge-1.19.2-2.1.13.jar
@@ -89,6 +95,8 @@
 - catalogue-1.7.0-1.19.2.jar
 - caverns_and_chasms-1.19.2-1.0.2.jar
 - chalk-1.19.2-1.6.3.jar
+- chat_heads-0.10.32-forge-1.19.2.jar
+- chatcolours-1.19-1.0.jar
 - cherishedworlds-forge-6.0.5+1.19.4.jar
 - citadel-2.1.4-1.19.jar
 - clayworks-1.19.2-2.1.0.jar
@@ -100,12 +108,14 @@
 - configured-2.1.1-1.19.2.jar
 - coroutil-forge-1.19.2-1.3.6.jar
 - create-1.19.2-0.5.1.f.jar
+- create-structures-0.1.0.jar
 - create_so-2.0.0.jar
 - creeperoverhaul-2.0.9-forge.jar
 - crittersandcompanions-1.19.2-2.1.2.jar
 - culturaldelights-1.19.2-0.15.5.jar
 - cupboard-1.19.2-2.6.jar
 - curios-forge-1.19.2-5.1.6.1.jar
+- customizableelytra-1.19.0-1.7.4.jar
 - deeperdarker-forge-1.19.2-1.2.2.jar
 - deepslatecutting-forge-1.5.0.jar
 - defaultoptions-forge-1.19-15.0.2.jar
@@ -121,7 +131,7 @@
 - entityculling-forge-1.6.1-mc1.19.2.jar
 - environmental-1.19.2-3.1.0.jar
 - everycomp-1.19.2-2.5.19.jar
-- exposure-1.19.2-1.4.1-forge.jar
+- exposure-1.19.2-1.5.1-forge.jar
 - farsight-1.19.2-3.6.jar
 - fastentitytransfer-forge-1.19.x-1.3.1.jar
 - ferritecore-5.0.3-forge.jar
@@ -168,6 +178,7 @@
 - neapolitan-1.19.2-4.1.0.jar
 - netherportalfix-forge-1.19-10.0.1.jar
 - notenoughanimations-forge-1.7.1-mc1.19.2.jar
+- observable-3.3.1.jar
 - oculus-mc1.19.2-1.6.9.jar
 - overweightfarming-1.19.2-2.0.1-forge.jar
 - paucal-forge-1.19.2-0.5.0.jar
@@ -196,6 +207,7 @@
 - swingthroughgrass-1.19.2-1.10.0.jar
 - textrues_embeddium_options-0.1.1+mc1.19.2.jar
 - tia-1.19.2-1.0-forge.jar
+- trulytreasures-forge-1.19-2.2.4.jar
 - upgrade_aquatic-1.19.2-5.1.0.jar
 - visuality-forge-2.0.2.jar
 - voicechat-forge-1.19.2-2.5.11.jar
