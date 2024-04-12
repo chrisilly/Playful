@@ -1,0 +1,20 @@
+{
+    "values": [
+        "#hexcasting:staves",
+        "#forge:tools/wrench",
+        "#forge:buckets",
+        "supplementaries:flute",
+        "alexsmobs:maraca",
+        "exposure:camera",
+        "minecraft:goat_horn",
+        "hexcasting:abacus",
+        "supplementaries:quiver",
+        "#exposure:film_rolls",
+        "#exposure:developed_film_rolls",
+        "caverns_and_chasms:depth_gauge",
+        "caverns_and_chasms:barometer",
+        "#minecraft:compasses",
+        "minecraft:clock",
+        "minecraft:lead"
+    ]
+}
