@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Video based on Time</title>
+    <!-- Import Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            position: relative;
+
+        }
+
+        h1 {
+            color: #88427a;
+            font-family: 'Protest Strike', sans-serif;
+            font-size: 48px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        h2 {
+            color: #88427a;
+            font-family: 'Futura', sans-serif;
+            font-size: 36px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        #footer {
+            position: fixed;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #88427a; /* Light Pink */
+            font-family: 'Protest Strike', sans-serif; /* Use your specific font here */
+            font-size: 24px;
+            text-align: center;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(10px);
+            background-color: rgba(255, 255, 255, 0.6);
+            width: 100%;
+        }
+
+        #not-footer {
+            height: 95vh; /* vh is a viewport-percentage length. 1vh is equal to 1% of the viewport's height. */
+            overflow-y: auto; /* This will add a scrollbar if the content is taller than the element. */
+            position: relative; /* This is needed to position the element relative to the viewport. */
+            padding-bottom: 50px;
+        }
+
+        @font-face {
+            font-family: 'Futura';
+            src: url('font.woff2') format('woff2');
+            font-family: 'Protest Strike';
+            src: url("ProtestStrike-Regular.ttf") format("truetype");
+        }
+
+        #githubIcon {
+            width: 40px;
+            height: 40px;
+
+        }
+
+        .btn {
+            background-color: DodgerBlue;
+            border: none;
+            color: white;
+            padding: 12px 30px;
+            cursor: pointer;
+            font-size: 20px;
+            width: 800px;
+            max-width: 75%;
+            margin: 0 auto;
+            display: block;
+            font-family: 'Futura', sans-serif;
+        }
+
+        /* Darker background on mouse-over */
+        .btn:hover {
+            background-color: RoyalBlue;
+        }
+
+        .instructions {
+            color: #88427a;
+            font-family: 'Futura', sans-serif;
+            font-size: 24px;
+            text-align: center;
+            margin: 25px;
+        }
+
+        code {
+            background-color: #f4f4f4;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        ol li {
+
+            text-align: center;
+            font-family: "Futura", sans-serif;
+            font-size: 16px;
+            color: #88427a;
+            padding: 10px;
+        }
+        ol ul{
+            text-align: center;
+            font-family: "Futura", sans-serif;
+            font-size: 16px;
+            color: #88427a;
+        }
+
+        ol img {
+
+        }
+
+        ol {
+            list-style-position: inside;
+        }
+
+    </style>
+</head>
+<body>
+<div id="not-footer">
+    <h1>Installation Instructions</h1>
+    <h2>Downloading</h2>
+    <div class="instructions">Click the button below to download the latest version of Playful. It will come as a <code>.mrpack</code>
+        file.
+    </div>
+    <button class="btn"
+            onclick="window.open('https://github.com/culliiing/Playful/releases/download/v1.4.0-beta.3/Playful_1.4.0-beta.3.mrpack')">
+        <i class="fa fa-download"></i> Download
+    </button>
+    <div class="instructions">Now, import the file into a supported mod launcher, such as <a
+            href="https://modrinth.com/app">Modrinth</a> or <a href="https://prismlauncher.org/">PrismLauncher</a>.
+    </div>
+    <h2>Importing to Modrinth</h2>
+    <ol>
+        <li>In the Modrinth app, press the plus icon in the bottom left corner</li>
+        <li>In the Create Instance window, press <code>From File</code></li>
+
+        <li>Drag and drop the <code>.mrpack</code> file, or press the <code>Import From File</code> button and navigate
+            to where you downloaded the file
+        </li>
+        <ul><img src="https://github.com/culliiing/Playful/assets/103900975/47945f45-fe31-4bba-a428-f555a3b688e2" alt="image showing the From file button on the website"> </ul>
+        <li>It should start downloading, and when it's finished you should be able to hit the play button</li>
+    </ol>
+
+</div>
+<div id="footer" onclick="window.open('https://github.com/culliiing/Playful/tree/v1.4.0-beta.3')">Playful repository<img
+        id="githubIcon" src="githubicon.png" alt="icon for GitHub">
+</div>
+
+
+</body>
+</html>
