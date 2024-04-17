@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "atmospheric:crutose_path",
+        "environmental:dirt_path",
+        "environmental:podzol_path",
+        "environmental:mycelium_path"
+    ]
+}
