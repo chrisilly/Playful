@@ -161,6 +161,7 @@
 - justenoughbreeding-forge-1.19.2-1.2.1.jar
 - kotlinforforge-3.12.0-all.jar
 - kubejs-forge-1902.6.2-build.63.jar
+- lanishextendedstaves-forge-1.19.2-0.0.1.jar
 - lazydfu-1.19-1.0.2.jar
 - make_bubbles_pop-0.2.0-forge-mc1.19-1.19.3.jar
 - map_atlases-1.19-6.0.4.jar
