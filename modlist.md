@@ -3,6 +3,7 @@
 - AI-Improvements-1.19.2-0.5.2.jar
 - AdvancementPlaques-1.19.2-1.4.7.jar
 - Amplified_Nether_1.19.3_v1.2.1.jar
+- ArmorStatues-v4.0.8-1.19.2-Forge.jar
 - AutoRegLib-1.8.2-55.jar
 - BetterAdvancements-1.19.2-0.3.0.148.jar
 - BetterF3-4.0.1-Forge-1.19.2.jar
@@ -14,6 +15,7 @@
 - Chimes-v2.0.1-1.19.2.jar
 - Clumps-forge-1.19.2-9.0.0+14.jar
 - Controlling-forge-1.19.2-10.0+7.jar
+- Copycats-forge.1.19.2-1.2.5.jar
 - CosmeticArmorReworked-1.19.2-v1a.jar
 - CreativeCore_FORGE_v2.9.3_mc1.19.2.jar
 - DarkPaintings-Forge-1.19.2-13.1.5.jar
@@ -159,12 +161,13 @@
 - justenoughbreeding-forge-1.19.2-1.2.1.jar
 - kotlinforforge-3.12.0-all.jar
 - kubejs-forge-1902.6.2-build.63.jar
+- lanishextendedstaves-forge-1.19.2-0.0.1.jar
 - lazydfu-1.19-1.0.2.jar
 - make_bubbles_pop-0.2.0-forge-mc1.19-1.19.3.jar
 - map_atlases-1.19-6.0.4.jar
 - mediaworks-forge-1.19.2-1.0.7.jar
 - memoryleakfix-forge-1.17+-1.1.5.jar
-- mes-1.3-1.19.2-forge.jar
+- mes-1.3.1-1.19.2-forge.jar
 - mighty_mail-forge-1.19.2-1.0.14.jar
 - miners_delight-1.19.2-1.1.1.jar
 - minicoal-1.19-1.0.0.jar
@@ -174,7 +177,7 @@
 - moreiotas-forge-1.19.2-0.0.4.jar
 - morejs-forge-1.19.2-0.3.0.jar
 - morevanillapotions-1.19.2-1.8.jar
-- mvs-4.1.1-1.19.2-forge.jar
+- mvs-4.1.2-1.19.2-forge.jar
 - neapolitan-1.19.2-4.1.0.jar
 - netherportalfix-forge-1.19-10.0.1.jar
 - notenoughanimations-forge-1.7.1-mc1.19.2.jar
