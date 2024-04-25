@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/VanillaTweaks.zip","file/Stay_True_1.19.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","Forgery","Forgery grayscale","Forgery tnt_is_dynamite","eatinganimations_compat","file/EclecticTrove-noconfig-1.19.2-1.3.0.zip","file/3D Tankards.zip","file/Midnighttiggers-CTM-Default_1.20.2_V2.zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/VanillaTweaks.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Midnighttiggers-CTM-Default_1.20.2_V2.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/VanillaTweaks.zip","file/Stay_True_1.19.zip","file/MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip","file/MandalasGUI_AddOn+Modded+Darkmode_1.20.4.zip","Forgery","Forgery grayscale","Forgery tnt_is_dynamite","eatinganimations_compat","file/EclecticTrove-noconfig-1.19.2-1.3.0.zip","file/3D Tankards.zip","file/HextureBackport-v1.zip","file/Midnighttiggers-CTM-Default_1.20.2_V2.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/VanillaTweaks.zip","file/MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip","file/MandalasGUI_AddOn+Modded+Darkmode_1.20.4.zip","file/Midnighttiggers-CTM-Default_1.20.2_V2.zip"]
 lastServer:127.0.0.1
 lang:en_us
 soundDevice:""
@@ -78,7 +78,7 @@ allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
 soundCategory_master:0.5033113
-soundCategory_music:0.20422535
+soundCategory_music:0.20892018
 soundCategory_record:0.056338027
 soundCategory_weather:0.103286386
 soundCategory_block:1.0
