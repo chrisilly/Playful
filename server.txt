@@ -1,3 +1,4 @@
+AudioPlayer (https://modrinth.com/mod/SRlzjEBS)
 Distant Horizons (https://modrinth.com/mod/uCdwusMi)
 Simple Voice Chat (https://modrinth.com/mod/9eGKb6K1) by Max Henkel
 Voice Chat Interaction (https://modrinth.com/mod/qsSP2ZZ0) by Max Henkel

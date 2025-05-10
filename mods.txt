@@ -1,3 +1,4 @@
+AudioPlayer (https://modrinth.com/mod/SRlzjEBS)
 Distant Horizons (https://modrinth.com/mod/uCdwusMi)
 Mod Menu (https://modrinth.com/mod/mOgUt4GM)
 Simple Voice Chat (https://modrinth.com/mod/9eGKb6K1)
