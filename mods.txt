@@ -1,7 +1,17 @@
-AppleSkin (https://modrinth.com/mod/EsAfCjCV) (appleskin-fabric-mc1.20.1-2.5.1.jar)
-AudioPlayer (https://modrinth.com/mod/SRlzjEBS) (audioplayer-fabric-1.20.1-1.13.2.jar)
-Distant Horizons (https://modrinth.com/mod/uCdwusMi) (DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar)
-Fabric API (https://modrinth.com/mod/P7dR8mSH) (fabric-api-0.92.5+1.20.1.jar)
-Mod Menu (https://modrinth.com/mod/mOgUt4GM) (modmenu-7.2.2.jar)
-Simple Voice Chat (https://modrinth.com/mod/9eGKb6K1) (voicechat-fabric-1.20.1-2.5.30.jar)
-Voice Chat Interaction (https://modrinth.com/mod/qsSP2ZZ0) (vcinteraction-fabric-1.20.1-1.0.6.jar)
+AppleSkin (https://modrinth.com/mod/EsAfCjCV) [3.0.6+mc1.21]
+AudioPlayer (https://modrinth.com/mod/SRlzjEBS) [1.21.1-1.13.2]
+Distant Horizons (https://modrinth.com/mod/uCdwusMi) [2.3.2-b]
+Dynamic FPS (https://modrinth.com/mod/LQ3K71Q1) [3.9.4]
+Enhanced Block Entities (https://modrinth.com/mod/OVuFYfre) [0.10.2+1.21]
+EntityCulling (https://modrinth.com/mod/NNAgCjsB) [1.7.4]
+Fabric API (https://modrinth.com/mod/P7dR8mSH) [0.116.0+1.21.1]
+FerriteCore (https://modrinth.com/mod/uXXizFIs) [7.0.2-hotfix]
+ImmediatelyFast (https://modrinth.com/mod/5ZwdcRci) [1.6.5+1.21.1]
+Lithium (https://modrinth.com/mod/gvQqBUqZ) [0.15.0+mc1.21.1]
+Mod Menu (https://modrinth.com/mod/mOgUt4GM) [11.0.3]
+ModernFix (https://modrinth.com/mod/nmDcB62a) [5.21.0+mc1.21.1]
+Placeholder API (https://modrinth.com/mod/eXts2L7r) [2.4.2+1.21]
+Simple Voice Chat (https://modrinth.com/mod/9eGKb6K1) [1.21.1-2.5.30]
+Sodium (https://modrinth.com/mod/AANobbMI) [0.6.13+mc1.21.1]
+Voice Chat Interaction (https://modrinth.com/mod/qsSP2ZZ0) [1.21.1-1.0.8]
+spark (https://modrinth.com/mod/l6YH9Als) [1.10.109]

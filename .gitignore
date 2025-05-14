@@ -12,6 +12,18 @@ logs/
 schematics/
 patchouli_books/
 crash-reports/
+downloads/
+audioplayer_uploads/
+spark-modernfix/
+.cache/
+command_history.txt
 icon.png
 usercache.json
+
+# Unwanted Config/ files
 config/voicechat/username-cache.json
+config/fabric/indigo-renderer.properties
+config/spark/
+!config/spark/config.json
+sodium-fingerprint.json
+
