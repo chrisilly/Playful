@@ -19,6 +19,7 @@ spark-modernfix/
 command_history.txt
 icon.png
 usercache.json
+emi.json
 
 # Unwanted Config/ files
 config/voicechat/username-cache.json
