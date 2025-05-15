@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: craftables, index;
+	left-sidebar-pages: index, craftables, favorites;
 
 	/**
 	 * The subpanels in the left sidebar
