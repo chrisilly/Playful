@@ -1,10 +1,10 @@
 {
   "sorting": "ascending",
   "count_libraries": true,
-  "compact_list": false,
+  "compact_list": true,
   "count_children": true,
   "mods_button_style": "classic",
-  "game_menu_button_style": "replace",
+  "game_menu_button_style": "icon",
   "count_hidden_mods": true,
   "mod_count_location": "title_screen",
   "hide_mod_links": false,

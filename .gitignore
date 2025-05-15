@@ -16,6 +16,7 @@ downloads/
 audioplayer_uploads/
 spark-modernfix/
 .cache/
+exposures/
 command_history.txt
 icon.png
 usercache.json
